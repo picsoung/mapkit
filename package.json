@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/picsoung/mapkit/issues"
   },
-  "homepage": "https://github.com/picsoung/mapkit#readme"
+  "homepage": "https://github.com/picsoung/mapkit#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
